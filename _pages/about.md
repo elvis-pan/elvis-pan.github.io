@@ -14,10 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm **Yan Pan**, and people also call me **Elvis**.
+I'm **Yan Pan**, or you can also call me **Elvis**.
 I'm a sophomore student at [Carnegie Mellon University](https://www.cmu.edu) [School of Computer Science](https://cs.cmu.edu) majoring in computer science with concentrations in machine learning and computer graphics.
 
-For more information about my [projects](https://elvis-pan.github.io/projects/), [courses](https://elvis-pan.github.io/blog/2020/courses/), and [life](https://elvis-pan.github.io/blog/2020/introduction/), feel free to explore this website.
+For more information about my [projects](https://elvis-pan.github.io/projects/), [courses](https://elvis-pan.github.io/blog/2020/courses/), and [life](https://elvis-pan.github.io/blog/2020/introduction/), feel free to explore this webpage.
 
-I can be reached at ypan2[at]andrew[dot]cmu[dot]edu.
+I can be reached at ypan2 [at] andrew [dot] cmu [dot] edu.
 

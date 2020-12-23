@@ -22,13 +22,12 @@ With the passion to make my own contributions to these areas, I plan to apply to
 However, in the meantime I need to work hard to build up my knowledge and skills for research.
 
 Besides school, I enjoy photography, soccer, and electronic musics.
-
 You can find a collection of my photography works on [my website](https://elvis-pan.github.io/gallery/) or [instagram](https://www.instagram.com/elvispanphoto/).
 I am broadly interested in digital photography, especially landscape photography.
 I believe that photography is the art of light and shadow, and I wish to find the beauty of light with my cameras.
 
-Some of my favorite musics recently:
+Here's some of my favorite musics recently:
 - Seven Lions - Silent Skies (feat. Karra)
 - Matisse & Sadko - Into You (feat. Hanne Mj&oslash;en)
 - Ti&euml;sto & Don Diablo - Chemicals (feat. Thomas Troelsen)
-- Martin Garrix & Matisse & Sadko - Together
+- Martin Garrix & Matisse & Sadko - Together.
