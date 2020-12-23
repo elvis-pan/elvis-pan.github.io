@@ -6,7 +6,7 @@ description: My heart is in the work.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpeg
   address: >
 
 news: true  # includes a list of news items
