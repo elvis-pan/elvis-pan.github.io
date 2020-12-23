@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Elvis Pan's Home Page
+title: About
 permalink: /
 description: My heart is in the work.
 
@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Pittsburgh, PA 15213</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

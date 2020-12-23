@@ -60,7 +60,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Elvis Pan's Blog # your blog must have a name for it to show up in the nav bar
+blog_name: Blog # your blog must have a name for it to show up in the nav bar
 blog_description: Story of my life.
 permalink: /blog/:year/:title/
 
@@ -79,6 +79,7 @@ collections:
   news:
     defaults:
       layout: post
+      title: News
     output: true
     permalink: /news/:path/
   projects:
