@@ -8,7 +8,7 @@ description: More about me!
 I'm **Yan Pan**, or you can also call me **Elvis**.
 
 I was born in Beijing, China, where I have lived for 18 wonderful years.
-I was admitted to the Early Development Program of [The High School Affiliated to Renmin University of China (RDFZ)](http://www.rdfz.cn/en/) one year earlier than normal, and spent 7 years there for both middle school and high school.
+I was fortunately admitted to the Early Development Program of the [High School Affiliated to Renmin University of China (RDFZ)](https://en.wikipedia.org/wiki/High_School_Affiliated_to_Renmin_University_of_China) and spent 7 years there for both middle school and high school.
 At RDFZ, I further explored my interests in mathematics and computer science and met many great friends and teachers.
 Then, I went to [Carnegie Mellon University](https://www.cmu.edu) [School of Computer Science](https://cs.cmu.edu) for college, where I major in computer science with concentrations in machine learning and computer graphics.
 During college, I found my interests in the following areas:
