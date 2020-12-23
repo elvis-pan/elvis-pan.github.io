@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Elvis Pan: More About Me!
+title: Story of Elvis Pan
 date:   2020-12-23 00:00:00
 description: 
 ---
