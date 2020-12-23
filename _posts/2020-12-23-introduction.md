@@ -2,7 +2,7 @@
 layout: post
 title: Story of Elvis Pan
 date:   2020-12-23 00:00:00
-description: 
+description: More about me!
 ---
 
 I'm **Yan Pan**, and people also call me **Elvis**.
