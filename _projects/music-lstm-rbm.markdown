@@ -3,7 +3,7 @@ layout: page
 title: Music Generation with LSTM-RBM
 description: LSTM-RBM based deep generative model to generate classical piano music.
 img: /assets/img/staff2.png
-importance: 5
+importance: 2
 ---
 
 This is our final project for CMU's [10-701 Introduction to Machine Learning](https://www.cs.cmu.edu/~epxing/Class/10701-20/).

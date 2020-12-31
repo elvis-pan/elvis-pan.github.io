@@ -3,7 +3,7 @@ layout: page
 title: Algorithms
 description: A collection of useful algorithms for competitive programming.
 img: /assets/img/computer.jpg
-importance: 3
+importance: 4
 ---
 
 View this project on [Github](https://github.com/elvis-pan/algorithm).
