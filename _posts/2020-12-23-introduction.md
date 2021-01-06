@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Story of Elvis Pan
-date:   2020-12-23 00:00:00
+date:   2021-01-01 00:00:00
 description: More about me!
 ---
 ## Biography
@@ -25,5 +25,4 @@ In 2023 (expected), with the passion to make my own contributions to these areas
 
 ## Leisure Life
 I enjoy photography, soccer, and electronic musics. You can find a collection of my photography works on [my website](https://elvis-pan.github.io/gallery/) or [instagram](https://www.instagram.com/elvispanphoto/). I am broadly interested in digital photography, especially landscape photography. I believe that photography is the art of light and shadow, and I wish to find the beauty of light with my cameras.
-For music, I wrote a post about music recommendation in [this blog](https://elvis-pan.github.io/blog/2021/music/).
 
