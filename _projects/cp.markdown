@@ -13,7 +13,11 @@ The ratings might not be the latest.
 
 <img src="https://elvis-pan.github.io/assets/img/Codeforces.png" width="50%" height="50%" class="center">
 
-[Codewars](https://www.codewars.com/users/ElvisPan) <span style="color:blue">4 kyu</span>
+[Codewars](https://www.codewars.com/users/ElvisPan) <span style="color:blue">4 kyu</span>[^cw]
+- Top 13% of all users.
 
 [LeetCode](https://leetcode.com/elvis-pan/)
 - Solved 100 <span style="color:red">Hard</span> problems.
+
+--------------------
+[^cw]: Codewars not only has algorithm problems, but also has many interesting problems, for example interactive interpreters, evaluating mathematical expresion, etc. Another reason for choosing Codewars is that it supports Haskell.

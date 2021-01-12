@@ -18,7 +18,8 @@ During college, I found my interests in the following areas:
 - Deep Learning Theory
 - (Non-) Convex Optimization
 - Representation Learning
-- Computational Photography
+- Computational Photography and Computational Imaging
+- Learning-based Computer Vision and Computer Graphics
 - Theoretical Computer Science.
 
 In 2023 (expected), with the passion to make my own contributions to these areas, I'll be applying to PhD programs. However, in the meantime I need to work hard to build up my knowledge and skills for research.
