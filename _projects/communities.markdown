@@ -10,7 +10,8 @@ The ratings might not be the latest.
 [Codeforces](https://codeforces.com/profile/elvispan) <span style="color:blue">Expert</span>
 - Contest rating: <span style="color:blue">1709</span> (max. <span style="color:blue">1709</span>)
 - Top 10% of all users.
-<img src="https://elvis-pan.github.io/assets/img/Codeforces.png" width="50%" height="50%">
+
+<img src="https://elvis-pan.github.io/assets/img/Codeforces.png" width="50%" height="50%" class="center">
 
 [Codewars](https://www.codewars.com/users/ElvisPan) <span style="color:darkorange">5 kyu</span>
 
