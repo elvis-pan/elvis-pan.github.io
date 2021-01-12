@@ -8,9 +8,10 @@ importance: 4
 The ratings might not be the latest.
 
 [Codeforces](https://codeforces.com/profile/elvispan) <span style="color:blue">Expert</span> Contest rating: <span style="color:blue">1709</span> (max. <span style="color:blue">1709</span>)
-- Top 12.5% according to official data.
+- Top 10% of all users.
+![Percentile of <span style="color:blue">elvispan</span>](/assets/img/Codeforces.png)
 
-[Codewars](https://www.codewars.com/users/ElvisPan) <span style="color:yellow">5 kyu</span>
+[Codewars](https://www.codewars.com/users/ElvisPan) <span style="color:dark-yellow">5 kyu</span>
 
 [LeetCode](https://leetcode.com/elvis-pan/)
 - Solved 100 <span style="color:red">Hard</span> problems.
