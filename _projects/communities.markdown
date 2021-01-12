@@ -3,7 +3,7 @@ layout: page
 title: Communities
 description: Several CS-related communities that I belong to.
 img: /assets/img/Codeforces.png
-importance: 4
+importance: 3
 ---
 The ratings might not be the latest.
 

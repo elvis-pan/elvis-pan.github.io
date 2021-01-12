@@ -2,7 +2,7 @@
 layout: page
 title: Algorithms
 description: A collection of useful algorithms for competitive programming.
-img: /assets/img/computer.jpg
+img: /assets/img/dijkstra.jpg
 importance: 4
 ---
 

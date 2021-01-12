@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music Generation with LSTM-RBM
+title: Piano Music Generator
 description: LSTM-RBM based deep generative model to generate classical piano music.
 img: /assets/img/staff2.png
 importance: 2

@@ -2,7 +2,7 @@
 layout: page
 title: BestMoment
 description: A program to automatically extract screenshots from videos.
-img: /assets/img/street.jpg
+img: /assets/img/8.jpg
 importance: 5
 ---
 
