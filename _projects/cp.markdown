@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Communities
-description: Several CS-related communities that I belong to.
+title: Competitive Programming
+description: Competitive programming ratings and rankings.
 img: /assets/img/Codeforces.png
 importance: 3
 ---
@@ -13,7 +13,7 @@ The ratings might not be the latest.
 
 <img src="https://elvis-pan.github.io/assets/img/Codeforces.png" width="50%" height="50%" class="center">
 
-[Codewars](https://www.codewars.com/users/ElvisPan) <span style="color:darkorange">5 kyu</span>
+[Codewars](https://www.codewars.com/users/ElvisPan) <span style="color:blue">4 kyu</span>
 
 [LeetCode](https://leetcode.com/elvis-pan/)
 - Solved 100 <span style="color:red">Hard</span> problems.
