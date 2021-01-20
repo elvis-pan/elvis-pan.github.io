@@ -14,10 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm **Yan Pan** (**Elvis**).
+My name is *Yan Pan*, or *Elvis*.
 I'm a sophomore student at [Carnegie Mellon University](https://www.cmu.edu) [School of Computer Science](https://cs.cmu.edu) majoring in computer science with minors in machine learning and mathematics.
+I'm interested in the theoretical foundations of machine learning, optimization, and the application of machine learning in computer vision and computer graphics.
 
-For more information about my [projects](https://elvis-pan.github.io/projects/), [courses](https://elvis-pan.github.io/blog/2021/courses/), and [life](https://elvis-pan.github.io/blog/2021/introduction/), feel free to explore this webpage.
+For more information about my [projects](https://elvis-pan.github.io/projects/), [courses](https://elvis-pan.github.io/blog/2021/courses/), and [life](https://elvis-pan.github.io/blog/2021/intro/), feel free to explore this webpage.
 
 I can be reached at ypan2 [at] andrew [dot] cmu [dot] edu.
 
