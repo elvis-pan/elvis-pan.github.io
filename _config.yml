@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Elvis Pan's Home Page # the website title (if blank, full name will be used instead)
-first_name: Elvis
+title: Yan Pan's Home Page # the website title (if blank, full name will be used instead)
+first_name: Yan
 middle_name: 
 last_name: Pan
 # email: ypan2@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Elvis Pan's personal home page.
+  Yan Pan's personal home page.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -40,7 +40,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: elvis-pan # your GitHub user name
 twitter_username: YanPan010307 # your Twitter handle
-linkedin_username: elvis-pan-25ba35190 # your LinkedIn user name
+linkedin_username: yan-pan-25ba35190 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -60,7 +60,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # your blog must have a name for it to show up in the nav bar
-blog_description: Story of my life.
+blog_description: Some random thoughts and notes.
 permalink: /blog/:year/:title/
 
 # Pagination
