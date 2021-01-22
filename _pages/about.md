@@ -15,6 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a sophomore BSCS student at [Carnegie Mellon University](https://www.cmu.edu) [School of Computer Science](https://cs.cmu.edu).
+I am interested in the theoretical foundations and applications of machine learning.
 
 For more information about my [projects](https://elvis-pan.github.io/projects/), [courses](https://elvis-pan.github.io/blog/2021/courses/), and [life](https://elvis-pan.github.io/blog/2021/intro/), feel free to explore this webpage.
 
