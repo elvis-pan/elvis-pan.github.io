@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Course Review
-date:   2021-01-27 00:00:00
+date:   2021-01-26 00:00:00
 description: Reviews of the courses.
 ---
-My background: I started taking casual Math Olympiad training starting from elementary school, so I have a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and matrix. Programming experiences are mostly in machine learning using Python or MATLAB, never done any systems programming or software engineering.
+My goal: B.S. in CS, a machine learning concentration, a mathematical sciences minor, and maybe a computer graphics concentration if possible.
 
-I plan to do a B.S. in CS, a machine learning concentration, a computer graphics concentration, and a mathematical sciences minor.
+My background: I started taking casual Math Olympiad training starting from elementary school, so I have a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and matrix. Programming experiences are mostly in machine learning using Python or MATLAB, never done any systems programming or software engineering.
 
 ## Freshman
 ### Fall 2019
@@ -61,14 +61,25 @@ Overall: medium-heavy, spent most time on 251.
   - We did a project on music generation, pretty cool topic.
   - In general, quite disappointing. I should have taken 15-462 Computer Graphics in this semester (with Keenan Crane), but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead. Awful choice.
 - &#9733; 15-210 Parallel and Sequential Data Structures and Algorithms
+  - A pretty solid theory course that brings us into the theoretical backgrounds of many classical algorithms.
+  - The course is curved and graded based on a "bucket" system, which means if you get 80% on the quizzes and labs you get 100% of the grades, so don't worry too much about the grades.
+  - The midterm exams really tests your deeper understanding of the algorithms, and the final was extremely hard.
+  - The only time-consuming part of the homeworks is programming in SML. Most labs consists of only one LeetCode Hard level problem, which should be simple if coded in C++.
 - 21-355 Principles of Real Analysis
+  - The course uses the classical textbook *Principles of Mathematical Analysis* of Rudin.
+  - The homeworks and exams were mostly from the textbook and were not hard in general.
+  - If you are a great self-learner you can probably learn all the stuff all by yourself through reading the book. I don't recommend taking it if you do not plan to do a math major/minor.
 - 79-104 Global Histories
+  - The topic is *Genocides and Weapons of Mass Destruction*, maybe not the most interesting topic, but it's good to know a bit about it.
+  - The workload was not very light as I expected, maybe because my English is not as good as a native speaker. The grading was very nice however.
 - 15-295 Competition Programming and Problem Solving
+  - More like a club than a course. I plan to take more in the future.
+  - If you know pretty much about competitive programming, it almost takes you no time. I never do competitive programming before, only some LeetCode problems, but I only spent like ~20 hours in total on it for the semester to get an A.
 
 Overall: medium-light, almost wasted a semester. Most pressure came from the anxiety of doing nothing.
 
 ## Spring 2021
-- 10-725 Convex Optimization
+- 10-725 Convex Optimization 
 - 15-462 Computer Graphics
 - 16-385 Computer Vision
 - 36-226 Introduction to Statistical Inference
