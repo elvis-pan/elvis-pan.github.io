@@ -2,7 +2,7 @@
 layout: about
 title: Yan Pan's Home Page
 permalink: /
-description: My heart is in the work.
+description: Undergraduate Researcher, Sophomore Student @ CMU SCS
 
 profile:
   align: right
