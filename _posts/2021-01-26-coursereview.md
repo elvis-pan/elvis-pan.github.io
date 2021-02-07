@@ -4,88 +4,96 @@ title: Course Review
 date:   2021-01-26 00:00:00
 description: Reviews of the courses.
 ---
-My goal: B.S. in CS, a machine learning concentration, a mathematical sciences minor, and maybe a computer graphics concentration if possible.
+My goal: B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a computer graphics concentration if possible.
 
-My background: I started taking casual Math Olympiad training starting from elementary school, so I have a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and matrix. Programming experiences are mostly in machine learning using Python or MATLAB, never done any systems programming or software engineering.
+My background: I started taking casual competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and linear algebra. Programming experiences were mostly in machine learning using Python or MATLAB, and had never done any systems programming or software engineering.
 
 ## Freshman
 ### Fall 2019
 - 15-122 Principles of Imperative Computation
-- &#9733; 21-127 Concepts of Mathematics
-  - A very interesting introduction to many areas in mathematics, especially those related to computer science.
-  - The course overed a broad number of areas, mainly discrete mathematics, including algebra, real analysis, number theory, combinatorics.
+  - A introduction into serious computer science, since 15-112 teaches more about "programming" than "computer science".
+  - Mostly about concepts in C and the simplest data structures and algorithms.
+  - The exams and homeworks should not be hard for CS majors, and it is indeed the easiest CS course I believe.
+  - Contracts and point-to reasonings were not fun (although quite useful), guessing what Iliano meant in the question statement was not fun, but the programming homeworks were quite interesting. I actually get top 1 in the Peg scoreboard in terms of the speed of my program to solve the board using backtracking.  &#9733; 21-127 Concepts of Mathematics A very interesting introduction to many areas in mathematics, especially those related to computer science.  The course overed a broad number of areas, mainly discrete mathematics, including algebra, real analysis, number theory, combinatorics.
   - It introduced formal definition of mathematical objects as well as practiced proof-writing skills, which would be crucial for math and CS.
-  - I was quite unhappy for not taking 21-128/15-151, but my professor Greggo tends to add more stuff so it's almost the same as 128 or 151.
 - 21-259 Calculus in Three Dimensions
-  - Extremely easy. I got 101/100 for the final grade, full score on all midterms plus many bonus points.
-  - I would really recommend taking some time to consider the courses before you take them.
+  - Extremely easy: I got 101/100 for the final grade.
+  - Highly recommend to take 21-268 or 21-269. I would really recommend taking some time to consider the courses before you take them, because I didn't know these options.
 - &#9733; 66-107 Modeling Complex Systems
-  - Amazing area. I actually learned computational social science in college, which is the reason I took this course.
-  - The professor John Miller is really nice. He knows pretty much about a vast number of topics in social sciences.
-  - Due to my previous experience, I taught the whole class how to program in NetLogo as well as helped debugging their programs. Free TA :)
+  - Amazing area about computational social science. More is different.
+  - The professor John Miller is really friendly and nice. He knows pretty much about a vast number of topics in social sciences.
+  - Due to my previous experience, I taught the whole class how to program in NetLogo as well as helped debugging their programs, so I actually worked as a free TA for the class.
   - Worked on a project that simulates the dynamics of social gatherings.
 - 76-100 Reading and Writing in Academic Context
-  - Just a course for international students.
+  - Just a course for international students. Skip it if you can.
 
-Overall: light
+**Workload:** light, got plenty of sleep and time with friends.
 
 ### Spring 2020
 - &#9733; 15-150 Principles of Functional Programming
-- &#9733; &#9733;&#9724; 15-251 Great Ideas in Theoretical Computer Science
-  - My favorite course so far at CMU, which is quite surprising given the amount of time I spent on this course and the pressure it once brought me.
+  - Functional programming is quite new to me, but it's very fascinating. Using higher order functions and currying makes your code short, more readable, and also fancy. Even C++ and Python are integrating these functional features.
+  - However SML was not that useful in practice... Very few people actually code in SML. I just wonder why they don't use other functional languages like Haskell.
+  - The homeworks were not that easy, and since they don't let you see the autograder result, you need to be extremely careful in the programming labs. Written parts can contain very long proof, and some might find it tedious. Although I almost never got them completely correct, they were quite interesting.
+  - I think CMU really emphasizes research and education in the area of programming languages.
+  - Michael Erdmann is a great professor, very friendly and cute.
+- &#9733; &#9733; 15-251 Great Ideas in Theoretical Computer Science
+  - My favorite course so far at CMU, which is quite surprising given the amount of time I spent on this course and the pressure it once brought me. I was always very anxious on Wednesday afternoon, and worked many all-nighters after the CoVID outbreak.
   - The course is being notorious due to its massive workload, the conceptual difficulty for freshman students, and the pressure in writing sessions and exams.
-  - There were many topics covered, including DFA, turing machines, undecidability, complexity theory, algorithms (randomized/approximation), graph theory, cryptography.
-  - The course is the main reason that I decided to choose computer science as my degree.
-  - The professor Anil Ada is really nice! He really cares about his students and is enthusiatic towards teaching and improving his course contents. 
+  - There were many topics covered, including languages, DFA, Turing machines, undecidability, complexity theory (P vs NP), algorithms (randomized/approximation), graph theory, modular arithmetic and group theory, cryptography.
+  - 251 encourages teamwork, which will be extremely important in your life. My teammates were all very clever, and I enjoy tackling these super hard group and open problems with them.
+  - I love Anil Ada and his classes! He really cares about his students and is enthusiatic towards teaching and improving his course contents. 
 - 21-241 Matrices and Linear Transformations
+  - Just a basic linear algebra class. Mostly about calculations and some very easy proofs. 
+  - Not hard in general, take 21-242 if possible.
 - 21-270 Introduction to Mathematical Finance
+  - This is a required course for computational finance majors and minors. I wanted to minor in computational finance at that time, but the course was quite boring so I gave up that thought.
 - 76-101 Interpretation and Argument
 
-Overall: medium-heavy, spent most time on 251.
+**Workload:** moderate-heavy, spent most time on 251.
 
 ### Summer 2020
-- &#9733;&#9724; 15-213 Introduction to Computer Systems
-  - Great introductory course to computer systems.
-  - Not hard to get an A since the labs weights 50%, but the final exam is extremely hard, especially those questions about concurrency.
-  - The labs can be very time consuming.
+- 15-213 Introduction to Computer Systems
+  - Great introductory course to computer systems and very famous even for non-CMU students.
+  - Not hard to get a good grade since the labs weights 50% and you are provided autograders, but the final exam is extremely hard, especially those questions about concurrency.
+  - The labs can be very time consuming, so plan your time wisely. I began working on Cache Lab the very last day and it took me exactly 24 hours (with no breaks). Proxy Lab is a nightmare for me since I began working on it after the final and only had less than one day.
 - 21-325 Probability
-  - Much harder than I expected, quite fast-paced.
-  - Heavily based on mathematical analysis, better take 21-269 or 21-355 beforehand. 
+  - Much harder than I expected, very fast-paced in the summer session.
+  - Heavily based on mathematical analysis, so it's better take 21-269 or 21-355 beforehand.
   - The take-home exam felt like a Putnam competition. In fact, the first problem on the final is from past Putnams. Definitely not related to the homeworks.
+
+**Workload:** death in the first half, moderate in the second half.
 
 ## Sophomore
 ### Fall 2020
 - 10-701 Introduction to Machine Learning (PhD)
   - Don't be fooled by the "PhD" in the title. Only 30% are PhD students. Most people are masters or undergraduates, and the background of students vary significantly, ranging from doing ML research to not knowing the Bayes rule.
   - The grading is friendly, 50% of the students get curved to an A. The final exam was not easy, but they did it intentionally to select the top performing students. It's almost entirely based on the exam, so don't get too anxious about this course if you're taking it as an undergraduate student like me.
-  - We did a project on music generation, pretty cool topic.
-  - In general, quite disappointing. I should have taken 15-462 Computer Graphics in this semester (with Keenan Crane), but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead. Awful choice.
-- &#9733; 15-210 Parallel and Sequential Data Structures and Algorithms
+  - We did a project on music generation, which is a pretty cool topic. You can learn many new models in the project, for example GAN, VAE, RBM, etc.
+  - In general, quite disappointing. I should have taken 15-462 Computer Graphics in this semester, but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead. Awful choice.
+- 15-210 Parallel and Sequential Data Structures and Algorithms
   - A pretty solid theory course that brings us into the theoretical backgrounds of many classical algorithms.
-  - The course is curved and graded based on a "bucket" system, which means if you get 80% on the quizzes and labs you get 100% of the grades, so don't worry too much about the grades.
-  - The midterm exams really tests your deeper understanding of the algorithms, and the final was extremely hard.
+  - The course is curved and graded based on a "bucket" system, which means if you get 80% on the quizzes and labs then you get 100% of the grades, so don't worry too much about the grades or minor details in your assignments.
+  - The midterm exams really test your deeper understanding of the algorithms, and the final was extremely hard. But, they were curved.
   - The only time-consuming part of the homeworks is programming in SML. Most labs consists of only one LeetCode Hard level problem, which should be simple if coded in C++.
 - 21-355 Principles of Real Analysis
   - The course uses the classical textbook *Principles of Mathematical Analysis* of Rudin.
   - The homeworks and exams were mostly from the textbook and were not hard in general.
   - If you are a great self-learner you can probably learn all the stuff all by yourself through reading the book. I don't recommend taking it if you do not plan to do a math major/minor.
 - 79-104 Global Histories
-  - The topic is *Genocides and Weapons of Mass Destruction*, maybe not the most interesting topic, but it's good to know a bit about it.
-  - The workload was not very light as I expected, maybe because my English is not as good as a native speaker. The grading was very nice however.
+  - The topic was *Genocides and Weapons of Mass Destruction*. It's not the most interesting topic, but it's good to know a bit about it.
+  - The workload was not very light as I expected. The grading was very nice and gentle however.
 - 15-295 Competition Programming and Problem Solving
   - More like a club than a course. I plan to take more in the future.
   - If you know pretty much about competitive programming, it almost takes you no time. I never do competitive programming before, only some LeetCode problems, but I only spent like ~20 hours in total on it for the semester to get an A.
 
-Overall: medium-light, almost wasted a semester. Most pressure came from the anxiety of doing nothing.
+Workload: moderate-light.
 
 ## Spring 2021
-- 10-725 Convex Optimization 
-- 15-462 Computer Graphics
-- 16-385 Computer Vision
+- &#9733;&#9733;10-725 Convex Optimization 
+- &#9733;15-462 Computer Graphics
+- &#9733;16-385 Computer Vision
 - 36-226 Introduction to Statistical Inference
-- 85-219 Biological Foundations of Behavior
 - 15-295 Competition Programming and Problem Solving
-- Tsinghua University
 
 Other commitment: ML Research @ MultiComp Lab
 
@@ -95,10 +103,18 @@ Most likely doing ML research
 
 ## Junior
 ### Fall 2021
-- TBD
+- 10-708 Probabilistic Graphical Models
+- 15-463 Computational Photography
+- 21-373 Algebraic Structures
+- 15-300 Research and Innovation in Computer Science
+- 85-213 Human Information Processing and Artificial Intelligence
 
 ### Spring 2022
-- TBD
+- 10-707 Advanced Deep Learning
+- 15-440 Distributed Systems
+- 21-341 Linear Algebra
+- 15-400 Research Practicum in Computer Science
+- 33-120 Science and Science Fiction
 
 ## Senior
 ### Fall 2022
