@@ -4,13 +4,16 @@ title: Course Review
 date:   2021-01-26 00:00:00
 description: Reviews of the courses.
 ---
-My goal: B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a computer graphics concentration if possible.
+**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a computer graphics concentration or take some theory courses if possible (I don't know yet).
 
-My background: I started taking casual competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and linear algebra. Programming experiences were mostly in machine learning using Python or MATLAB, and had never done any systems programming or software engineering.
+**My background:** I started taking casual competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and linear algebra. Programming experiences were mostly in machine learning using Python or MATLAB, and had never done any systems programming or software engineering.
 
-&#9733; : The courses which I think were worth attending CMU for.
+**Some reflections on workload:** Many people recommend taking less courses, and I think that's good. If you just want to do software engineering, you probably don't need that many course or any course at all. However some courses are fundamental in order to become a researcher in the area, and self-teaching them can eventually take more time, so I think it's helpful to spend more time on these courses and try to stand out. They will be useful if you want to get into research labs or grad school (in this case you should also care about GPA).
+
+&#9733; : The courses which I think were worth attending CMU for.
 
 ## Freshman
+
 ### Fall 2019
 - 15-122 Principles of Imperative Computation
   - A introduction into serious computer science, since 15-112 teaches more about "programming" than "computer science".
@@ -72,7 +75,6 @@ My background: I started taking casual competitve math training starting from el
 
 **Workload:** death in the first half, moderate in the second half.
 
-## Sophomore
 ### Fall 2020
 - 10-701 Introduction to Machine Learning (PhD)
   - Don't be fooled by the "PhD" in the title. Only 30% are PhD students. Most people are masters or undergraduates, and the background of students vary significantly, ranging from doing ML research to not knowing the Bayes rule.
@@ -91,7 +93,7 @@ My background: I started taking casual competitve math training starting from el
   - If you are a great self-learner you can probably learn all the stuff all by yourself through reading the book. I don't recommend taking it if you do not plan to do a math major/minor.
 - 79-104 Global Histories
   - The topic was *Genocides and Weapons of Mass Destruction*. It's not the most interesting topic, but it's good to know a bit about it.
-  - The workload was not very light as I expected. The grading was very nice and gentle however.
+  - The workload was not very light as I expected, maybe because I'm a little perfectionist. The grading was very nice and gentle however.
 - 15-295 Competition Programming and Problem Solving
   - More like a club than a course. I plan to take more in the future.
   - If you know pretty much about competitive programming, it almost takes you no time. I never do competitive programming before, only some LeetCode problems, but I only spent like ~20 hours in total on it for the semester to get an A.
@@ -106,6 +108,8 @@ My background: I started taking casual competitve math training starting from el
 - 85-219 Biological Foundations of Behavior
 - 15-295 Competition Programming and Problem Solving
 
+**Note:** I started treating 15-295 as a club for entertainment rather than a course, and it really doesn't consume much time after the training during last semester and winter break. Competitive programming and algorithms are awesome!
+
 **Other commitments:** ML Research @ MultiComp Lab, Codeforces competitions.
 
 **Workload:** TBD (expected death)
@@ -114,7 +118,7 @@ My background: I started taking casual competitve math training starting from el
 
 Most likely doing ML research @ MultiComp Lab.
 
-## Junior
+## Preliminary Future Schedule
 ### Fall 2021
 - 10-708 Probabilistic Graphical Models
 - 15-463 Computational Photography
@@ -131,7 +135,6 @@ Most likely doing ML research @ MultiComp Lab.
 
 **Note:** 15-300/15-400 are a sequence of courses for students to work on a research project, not typical classes.
 
-## Senior
 ### Fall 2022
 - TBD
 
