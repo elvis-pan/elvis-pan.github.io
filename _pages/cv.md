@@ -5,6 +5,6 @@ title: CV
 description: My CV.
 nav: true
 ---
-Note: This page is still under construction. Please refer to the PDF version of my resume.
+[**Download PDF**](https://panyan7.github.io/assets/pdf/Yan_Pan_Resume.pdf)
 
-[**(PDF Version)**](https://panyan7.github.io/assets/pdf/Yan_Pan_Resume.pdf).
+<embed src="https://panyan7.github.io/assets/pdf/Yan_Pan_Resume.pdf" type="application/pdf" width="100%" height="600px" />
