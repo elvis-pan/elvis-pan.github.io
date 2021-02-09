@@ -114,11 +114,11 @@ description: Reviews of the courses.
 
 **Workload:** TBD (expected death)
 
+## Preliminary Future Schedule
 ## Summer 2021
 
-Most likely doing ML research @ MultiComp Lab.
+ML Research @ MultiComp Lab
 
-## Preliminary Future Schedule
 ### Fall 2021
 - 10-708 Probabilistic Graphical Models
 - 15-463 Computational Photography
