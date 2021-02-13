@@ -4,11 +4,12 @@ title: Course Review
 date:   2021-01-26 00:00:00
 description: Reviews of the courses.
 ---
-**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a computer graphics concentration or take some theory courses if possible (I don't know yet).
+**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a graphics or theory concentration if possible (I don't know yet).
 
-**My background:** I started taking casual competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and linear algebra. Programming experiences were mostly in machine learning using Python or MATLAB, and had never done any systems programming or software engineering.
+**My background:** I started taking casual weekly competitve math training starting from elementary school (not aiming for Olympiad medal), so I had a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and linear algebra. Programming experiences were mostly in machine learning using Python or MATLAB, and had never done any systems programming or software engineering.
 
-**Some reflections on workload:** Many people recommend taking less courses, and I think that's good. If you just want to do software engineering, you probably don't need that many course or any course at all. However some courses are fundamental in order to become a researcher in the area, and self-teaching them can eventually take more time, so I think it's helpful to spend more time on these courses and try to stand out. They will be useful if you want to get into research labs or grad school (in this case you should also care about GPA).
+**Some reflections on workload:** Many people recommend taking less courses, and I think that's good. However some courses are fundamental in order to become a researcher in the area, so I think it's helpful to focus on and spend more time on these courses and try to stand out. They will be useful if you want to get into research labs or grad school (in this case you should also care about GPA).
+ Don't waste your time in double majors or even dual degrees if you are not really interested in them. I considered double major in math but didn't do it this way because I am sure that I won't be doing pure math and I probably don't need to learn that much besides basic algebra and analysis right now.
 
 &#9733; : The courses which I think were worth attending CMU for.
 
@@ -123,15 +124,15 @@ ML Research @ MultiComp Lab
 - 10-708 Probabilistic Graphical Models
 - 15-463 Computational Photography
 - 21-373 Algebraic Structures
-- 85-213 Human Information Processing and Artificial Intelligence
 - 15-300 Research and Innovation in Computer Science
+- 85-213 Human Information Processing and Artificial Intelligence
 
 ### Spring 2022
 - 10-707 Advanced Deep Learning
-- 15-440 Distributed Systems
+- 15-451 Algorithm Design and Analysis
+- 15-400 Research Practicum in Computer Science
 - 21-341 Linear Algebra
 - 73-102 Principles of Microeconomics
-- 15-400 Research Practicum in Computer Science
 
 **Note:** 15-300/15-400 are a sequence of courses for students to work on a research project, not typical classes.
 
