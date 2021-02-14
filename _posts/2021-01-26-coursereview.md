@@ -6,10 +6,9 @@ description: Reviews of the courses.
 ---
 **My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a graphics or theory concentration if possible (I don't know yet).
 
-**My background:** I started taking casual weekly competitve math training starting from elementary school (not aiming for Olympiad medal), so I had a pretty solid background in discrete math. No prior knowledge of college-level math, except basic calculus and linear algebra. Programming experiences were mostly in machine learning using Python or MATLAB, and had never done any systems programming or software engineering.
+**My background:** I started taking *casual* competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math except basic calculus and linear algebra. Programming experiences were mostly using Python or MATLAB for machine learning.
 
-**Some reflections on workload:** Many people recommend taking less courses, and I think that's good. However some courses are fundamental in order to become a researcher in the area, so I think it's helpful to focus on and spend more time on these courses and try to stand out. They will be useful if you want to get into research labs or grad school (in this case you should also care about GPA).
- Don't waste your time in double majors or even dual degrees if you are not really interested in them. I considered double major in math but didn't do it this way because I am sure that I won't be doing pure math and I probably don't need to learn that much besides basic algebra and analysis right now.
+**Some reflections on workload:** Many people recommend taking less courses and I agree. Leave more time for some other interesting and meaningful stuff (research, projects, TA, etc.). I only take courses that I'm interested in or useful to me, instead of double majors or dual degrees (though I probably can do this). I considered double major in math but give up because I'm sure that I won't be doing pure math.
 
 &#9733; : The courses which I think were worth attending CMU for.
 
@@ -45,21 +44,21 @@ description: Reviews of the courses.
   - My favorite course so far at CMU, which is quite surprising given the amount of time I spent on this course and the pressure it once brought me. I was always very anxious on Wednesday afternoon, and worked many all-nighters after the CoVID outbreak.
   - The course is being notorious due to its massive workload, the conceptual difficulty for freshman students, and the pressure in writing sessions and exams.
   - There were many topics covered, including languages, DFA, Turing machines, undecidability, complexity theory (P vs NP), algorithms (randomized/approximation), graph theory, modular arithmetic and group theory, cryptography.
-  - 251 encourages teamwork, which will be extremely important in your life. My teammates were all very clever, and I enjoy tackling these super hard group and open problems with them.
-  - I love Anil Ada and his classes! He really cares about his students and is enthusiatic towards teaching and improving his course contents. 
+  - Teamwork is encouraged in 251, so choose your teammate wisely. My teammates were great and I enjoy tackling these super hard group and open problems with them.
+  - I love Anil Ada and his classes! He cares about his students and is enthusiatic towards teaching and improving his course contents. 
 - &#9733; 15-150 Principles of Functional Programming
-  - Functional programming is quite new to me, but it's very fascinating. Using higher order functions and currying makes your code short, more readable, and also fancy. Even C++ and Python are integrating these functional features.
-  - However SML was not that useful in practice... Very few people actually code in SML. I just wonder why they don't use other functional languages like Haskell.
-  - The homeworks were not that easy, and since they don't let you see the autograder result, you need to be extremely careful in the programming labs. Written parts can contain very long proof, and some might find it tedious. Although I almost never got them completely correct, they were quite interesting.
-  - I think CMU really emphasizes research and education in the area of programming languages.
+  - Functional programming is quite new to me, but it's very fascinating. It's the cleanest way to write code.
+  - However SML is probably not that useful in practice... Very few people actually code in SML. I wonder why they don't use other functional languages like Haskell.
+  - The homeworks were not that easy. Since they don't let you see the autograder result, you need to be extremely careful in the programming labs. Written parts can contain very long proof, and some might find it tedious, but I found them were quite interesting although I never get them correct.
   - Michael Erdmann is a great professor, very friendly and cute.
 - 21-241 Matrices and Linear Transformations
   - A basic linear algebra class. Mostly about calculations and some very easy proofs. 
   - Not hard in general, take 21-242 if you want to dive deeper into linear algebra.
 - 21-270 Introduction to Mathematical Finance
   - This is a required course for computational finance majors and minors. I wanted to minor in computational finance at that time, but the course was quite boring so I gave up that thought.
+  - The math part was just simple high school math. Understanding the terms in finance is a more difficult task.
 - 76-101 Interpretation and Argument
-  - Just a normal writing course, taken with my previous professor in 76-100.
+  - Just a normal writing course, taken with my professor in 76-100.
   - Minimal work.
 
 **Workload:** moderate-heavy, spent most time on 251.
@@ -74,15 +73,19 @@ description: Reviews of the courses.
   - Heavily based on mathematical analysis, so it's better take 21-269 or 21-355 beforehand.
   - The take-home exam felt like a Putnam competition. In fact, the first problem on the final is from past Putnams. Definitely not related to the homeworks.
 
+**Note:** Don't take summer courses since they are very boring and costly. Do research if you don't have or don't want an internship.
+
+**Other commitment:** Case competition during the final week of first half...
+
 **Workload:** death in the first half, moderate in the second half.
 
 ### Fall 2020
 - 10-701 Introduction to Machine Learning (PhD)
   - Don't be fooled by the "PhD" in the title. Only 30% are PhD students. Most people are masters or undergraduates, and the background of students vary significantly, ranging from doing ML research to not knowing the Bayes rule.
-  - The grading is friendly, 50% of the students get curved to an A. The final exam was not easy, but they did it intentionally to select the top performing students. It's almost entirely based on the exam, so don't get too anxious about this course if you're taking it as an undergraduate student like me.
-  - We did a project on music generation, which is a pretty cool topic. You can learn many new models in the project, for example GAN, VAE, RBM, etc.
+  - The grading is friendly, 50% of the students get curved to an A. The final exam was made hard intentionally, but not that hard. It's almost entirely based on the exam, so don't get too anxious about this course if you're taking it as an undergraduate student like me.
+  - We did a cool project on music generation. You can learn many new models in the project, for example GAN, VAE, RBM, etc.
   - Not too much workload, I feel like it's easier than 15-210.
-  - In general, quite disappointing. I should have taken 15-462 Computer Graphics in this semester, but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead. Awful choice.
+  - In general, quite disappointing. I should have taken 15-462 Computer Graphics in this semester, but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead.
 - &#9733; 15-210 Parallel and Sequential Data Structures and Algorithms
   - A pretty solid theory course that brings us into the theoretical backgrounds of many classical algorithms.
   - The course is curved and graded based on a "bucket" system, which means if you get 80% on the quizzes and labs then you get 100% of the grades, so don't worry too much about the grades or minor details in your assignments.
