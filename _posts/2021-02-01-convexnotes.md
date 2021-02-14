@@ -6,4 +6,4 @@ description: Notes for CMU 10-725 Convex Optimization.
 ---
 [**Download PDF**](https://panyan7.github.io/assets/pdf/convexnotes.pdf)
 
-<embed src="https://panyan7.github.io/assets/pdf/convexnotes.pdf" type="application/pdf" width="100%" height="100%" />
+<embed src="https://panyan7.github.io/assets/pdf/convexnotes.pdf" type="application/pdf" width="100%" height="1000px" />
