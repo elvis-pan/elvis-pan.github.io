@@ -38,8 +38,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: elvis-pan # your GitHub user name
-twitter_username: YanPan010307 # your Twitter handle
+github_username: panyan7 # your GitHub user name
+twitter_username: _panyan7 # your Twitter handle
 linkedin_username: yan-pan-25ba35190 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -51,7 +51,7 @@ blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
 contact_note: >
-  ypan2 [at] andrew [dot] cmu [dot] edu
+  ypan2[at]andrew[dot]cmu[dot]edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
