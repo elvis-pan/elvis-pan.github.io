@@ -4,7 +4,7 @@ title: Course Review
 date:   2021-01-26 00:00:00
 description: Reviews of the courses.
 ---
-**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a theory or graphics concentration if possible (I don't know yet).
+**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences for the first three years. In the fourth year, I might consider a theory concentration, a graphics concentration, an additional major in mathematics, or none of them and take some PhD ML theory courses. I haven't decided yet, but my plan for the first three years is probably fixed.
 
 **My background:** I started taking *casual* competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math except basic calculus and linear algebra. Programming experiences were mostly using Python or MATLAB for machine learning.
 
@@ -138,7 +138,7 @@ ML Research @ MultiComp Lab
 - 10-707 Advanced Deep Learning
 - 15-451 Algorithm Design and Analysis
 - 15-400 Research Practicum in Computer Science
-- 21-341 Linear Algebra
+- 21-356 Principles of Real Analysis II
 - 73-102 Principles of Microeconomics
 
 **Note:** 15-300/15-400 are a sequence of courses for students to work on a research project, not typical classes.
