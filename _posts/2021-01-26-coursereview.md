@@ -4,11 +4,11 @@ title: Course Review
 date:   2021-01-26 00:00:00
 description: Reviews of the courses.
 ---
-**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a graphics or theory concentration if possible (I don't know yet).
+**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe a theory or graphics concentration if possible (I don't know yet).
 
 **My background:** I started taking *casual* competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math except basic calculus and linear algebra. Programming experiences were mostly using Python or MATLAB for machine learning.
 
-**Some reflections on workload:** Many people recommend taking less courses and I agree. Leave more time for some other interesting and meaningful stuff (research, projects, TA, etc.). I only take courses that I'm interested in or useful to me, instead of double majors or dual degrees (though I probably can do this). I considered double major in math but give up because I'm sure that I won't be doing pure math.
+**Some reflections on workload:** Many people recommend taking less courses and I agree. Leave more time for some other interesting and meaningful stuff (research, projects, TA, etc.). However some courses are essential if you want to do research, so prioritize on these courses.
 
 &#9733; : The courses which I think were worth attending CMU for.
 
@@ -92,31 +92,35 @@ description: Reviews of the courses.
   - The midterm exams really test your deeper understanding of the algorithms, and the final was extremely hard. But, they were curved.
   - The only time-consuming part of the homeworks is programming in SML. Most labs consists of only one LeetCode Hard level problem, which should be much simpler if we just use C++.
 - 21-355 Principles of Real Analysis
-  - The course uses the classical textbook *Principles of Mathematical Analysis* of Rudin.
-  - The homeworks and exams were mostly from the textbook and were not hard in general.
+  - The course uses the classical textbook *Principles of Mathematical Analysis* of Rudin. The homeworks and exams were mostly from the textbook and were not hard in general.
   - If you are a great self-learner you can probably learn all the stuff all by yourself through reading the book. I don't recommend taking it if you do not plan to do a math major/minor.
 - 79-104 Global Histories
   - The topic was *Genocides and Weapons of Mass Destruction*. It's not the most interesting topic, but it's good to know a bit about it.
   - The workload was not very light as I expected, maybe because I'm a little perfectionist. The grading was very nice and gentle however.
 - 15-295 Competition Programming and Problem Solving
   - More like a club than a course. I plan to take more in the future.
-  - If you know pretty much about competitive programming, it almost takes you no time. I never do competitive programming before, only some LeetCode problems, but I only spent like ~20 hours in total on it for the semester to get an A.
+  - If you know pretty much about competitive programming, it almost takes you no time. I never do competitive programming before, only some LeetCode problems, but I only spent like ~20 hours in total (the whole semester, average 1.5h per week) on it for the semester to get an A.
 
-**Workload:** moderate-light, but I was quite anxious in most time due to the pressure of grad school etc.
+**Workload:** moderate-light.
+
+I was always quite anxious in most time of this semester due to the pressure of grad school and other personal stuff. Not a easy time for me. Fortunately got enough sleep and fell in love with competitive programming during the winter break, so I can finally begin to focus on what I enjoy in the next semester.
 
 ## Spring 2021
-- 10-725 Convex Optimization
-- 15-462 Computer Graphics
-- 16-385 Computer Vision
+- &#9733;&#9733; 10-725 Convex Optimization
+  - A course that I originally thought would not be taking, but ended up as the first non-introductory machine learning course I took. Yuanzhi Li is inspiring and he completely changed this course from a statistics course into a machine learning theory course. Yuanzhi said, for most of us, convex optimization is no more than `optimizer = optim.SGD(model.parameters(), momentum=0.9, lr=0.01)`, so the focus is more on non-convex optimization for machine learning. Right now I really hope CMU reopens   the course 15-859BB Machine Learning Theory.
+- &#9733; 15-462 Computer Graphics
+- &#9733; 16-385 Computer Vision
 - 36-226 Introduction to Statistical Inference
 - 85-219 Biological Foundations of Behavior
 - 15-295 Competition Programming and Problem Solving
+  - I started treating 15-295 as a club for entertainment rather than a course. Competitive programming and algorithms are awesome!
+- (Tsinghua University)
 
-**Note:** I started treating 15-295 as a club for entertainment rather than a course, and it really doesn't consume much time after the training during last semester and winter break. Competitive programming and algorithms are awesome!
-
-**Other commitments:** ML Research @ MultiComp Lab, Codeforces competitions.
+**Other commitments:** Tsinghua University host institution program, ML Research @ MultiComp Lab, Codeforces competitions.
 
 **Workload:** TBD (expected death)
+
+Participated in the host instition program at Tsinghua University, so finally back to school after spending almost a year taking online courses. Seven courses in a semester plus research seems extremely challenging for me, but I'll try to keep myself productive throughout the semester.
 
 ## Preliminary Future Schedule
 ## Summer 2021
