@@ -2,7 +2,7 @@
 layout: post
 title: Course Review
 date:   2021-01-26 00:00:00
-description: Reviews of the courses.
+description: My journey at CMU.
 ---
 **My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences for the first three years. In the fourth year, I might consider a theory concentration, a graphics concentration, an additional major in mathematics, or none of them and take some PhD ML theory courses. I haven't decided yet, but my plan for the first three years is probably fixed.
 
@@ -43,7 +43,7 @@ description: Reviews of the courses.
 - &#9733;&#9733; 15-251 Great Ideas in Theoretical Computer Science
   - My favorite course so far at CMU, which is quite surprising given the amount of time I spent on this course and the pressure it once brought me. I was always very anxious on Wednesday afternoon, and worked many all-nighters after the CoVID outbreak.
   - The course is being notorious due to its massive workload, the conceptual difficulty for freshman students, and the pressure in writing sessions and exams.
-  - There were many topics covered, including languages, DFA, Turing machines, undecidability, complexity theory (P vs NP), algorithms (randomized/approximation), graph theory, modular arithmetic and group theory, cryptography.
+  - There were many topics covered, including formal languages, DFA, Turing machines, undecidability, complexity theory (P vs NP), algorithms (randomized/approximation), graph theory, modular arithmetic and group theory, cryptography.
   - Teamwork is encouraged in 251, so choose your teammate wisely. My teammates were great and I enjoy tackling these super hard group and open problems with them.
   - I love Anil Ada and his classes! He cares about his students and is enthusiatic towards teaching and improving his course contents. 
 - &#9733; 15-150 Principles of Functional Programming
@@ -107,16 +107,18 @@ I was always quite anxious in most time of this semester due to the pressure of 
 
 ## Spring 2021
 - &#9733;&#9733; 10-725 Convex Optimization
-  - A course that I originally thought would not be taking, but ended up as the first non-introductory machine learning course I took. Yuanzhi Li is inspiring and he completely changed this course from a statistics course into a machine learning theory course. Yuanzhi said, for most of us, convex optimization is no more than `optimizer = optim.SGD(model.parameters(), momentum=0.9, lr=0.01)`, so the focus is more on non-convex optimization for machine learning. Right now I really hope CMU reopens   the course 15-859BB Machine Learning Theory.
+  - A course that I originally thought would not be taking, but ended up as the first non-introductory machine learning course I took. Yuanzhi Li is inspiring and he completely changed this course from a statistics course into a machine learning theory course. According to Yuanzhi, for most of us, convex optimization is no more than `optim.SGD`, so the focus is more on non-convex optimization for machine learning. Right now I really hope CMU reopens the course 15-859BB Machine Learning Theory (originally taught by Avrim Blum but he has left CMU).
 - &#9733; 15-462 Computer Graphics
 - &#9733; 16-385 Computer Vision
 - 36-226 Introduction to Statistical Inference
 - 85-219 Biological Foundations of Behavior
 - 15-295 Competition Programming and Problem Solving
   - I started treating 15-295 as a club for entertainment rather than a course. Competitive programming and algorithms are awesome!
-- (Tsinghua University)
+- 40240432 Formal Languages and Automata (Tsinghua University)
+  - Most of the classes is about languages and automata and covers more in depth than 15-251 at CMU, and a few classes about theory of computation.
+  - Actually I don't need to take a CS course, but I want to experience the best computer science education in China and compare it with CMU.
 
-**Other commitments:** Tsinghua University host institution program, ML Research @ MultiComp Lab, Codeforces competitions.
+**Other commitments:** ML Research @ MultiComp Lab, Tsinghua University host institution program, Codeforces competitions.
 
 **Workload:** TBD (expected death)
 
