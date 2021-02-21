@@ -10,7 +10,7 @@ description: My journey at CMU.
 
 **Some reflections on workload:** Many people recommend taking less courses and I agree. Leave more time for some other interesting and meaningful stuff (research, projects, TA, etc.). However some courses are essential if you want to do research, so prioritize on these courses.
 
-&#9733; : The courses which I think were worth attending CMU for.
+&#9733; : The courses which I think were worth attending CMU for. Courses without a star can also be good, but they are not that special.
 
 ## Freshman
 
@@ -41,13 +41,13 @@ description: My journey at CMU.
 
 ### Spring 2020
 - &#9733;&#9733; 15-251 Great Ideas in Theoretical Computer Science
-  - My favorite course so far at CMU, which is quite surprising given the amount of time I spent on this course and the pressure it once brought me. I was always very anxious on Wednesday afternoon, and worked many all-nighters after the CoVID outbreak.
+  - My favorite course so far at CMU, which is quite surprising given the amount of time I spent on this course and the pressure it once brought me. I was always very anxious on Wednesday afternoon, and worked many all-nighters after the pandemic outbreak.
   - The course is being notorious due to its massive workload, the conceptual difficulty for freshman students, and the pressure in writing sessions and exams.
   - There were many topics covered, including formal languages, DFA, Turing machines, undecidability, complexity theory (P vs NP), algorithms (randomized/approximation), graph theory, modular arithmetic and group theory, cryptography.
   - Teamwork is encouraged in 251, so choose your teammate wisely. My teammates were great and I enjoy tackling these super hard group and open problems with them.
   - I love Anil Ada and his classes! He cares about his students and is enthusiatic towards teaching and improving his course contents. 
 - &#9733; 15-150 Principles of Functional Programming
-  - Functional programming is quite new to me, but it's very fascinating. It's the cleanest way to write code.
+  - Functional programming was quite new to me, but it's very fascinating. It's probably the cleanest way to write code and high order functions changes your way of thinking about code.
   - However SML is probably not that useful in practice... Very few people actually code in SML. I wonder why they don't use other functional languages like Haskell.
   - The homeworks were not that easy. Since they don't let you see the autograder result, you need to be extremely careful in the programming labs. Written parts can contain very long proof, and some might find it tedious, but I found them were quite interesting although I never get them correct.
   - Michael Erdmann is a great professor, very friendly and cute.
@@ -64,14 +64,14 @@ description: My journey at CMU.
 **Workload:** moderate-heavy, spent most time on 251.
 
 ### Summer 2020
-- 15-213 Introduction to Computer Systems
+- &#9733; 15-213 Introduction to Computer Systems
   - Great introductory course to computer systems and very famous even for non-CMU students.
-  - Not hard to get a good grade since the labs weights 50% and you are provided autograders, but the final exam is extremely hard, especially those questions about concurrency.
-  - The labs can be very time consuming, so plan your time wisely. I began working on Cache Lab the very last day and it took me exactly 24 hours (with no breaks). Proxy Lab is a nightmare for me since I began working on it after the final and only had less than one day.
+  - Not hard to get a good grade since the labs weights 50% and you are provided autograders, but the final exam was extremely hard, especially those questions about concurrency.
+  - The labs were certainly interesting but they could be very time consuming, so plan your time wisely. I began working on Cache Lab the very last day and it took me exactly 24 hours (with no breaks). Proxy Lab is a nightmare for me since I began working on it after the final and only had less than one day.
 - 21-325 Probability
-  - Much harder than I expected, very fast-paced in the summer session.
-  - Heavily based on mathematical analysis, so it's better take 21-269 or 21-355 beforehand.
-  - The take-home exam felt like a Putnam competition. In fact, the first problem on the final is from past Putnams. Definitely not related to the homeworks.
+  - Harder than I expected, very fast-paced in the summer session.
+  - A proof-based course, with the goal to prove the central limit theorem, the law of large numbers, etc. The proofs were highly non-trivial and heavily based on mathematical analysis, so it's recommended to take 21-269 or 21-355 beforehand. I didn't take them before so I have to self-taught myself analysis.
+  - The take-home exam felt like a Putnam competition and was definitely not related to the homeworks.
 
 **Note:** Don't take summer courses since they are very boring and costly. Do research if you don't have or don't want an internship.
 
@@ -85,7 +85,7 @@ description: My journey at CMU.
   - The grading is friendly, 50% of the students get curved to an A. The final exam was made hard intentionally, but not that hard. It's almost entirely based on the exam, so don't get too anxious about this course if you're taking it as an undergraduate student like me.
   - We did a cool project on music generation. You can learn many new models in the project, for example GAN, VAE, RBM, etc.
   - Not too much workload, I feel like it's easier than 15-210.
-  - In general, quite disappointing. I should have taken 15-462 Computer Graphics in this semester, but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead.
+  - In general, quite disappointing. I should have taken 15-462 *Computer Graphics* in this semester, but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead.
 - &#9733; 15-210 Parallel and Sequential Data Structures and Algorithms
   - A pretty solid theory course that brings us into the theoretical backgrounds of many classical algorithms.
   - The course is curved and graded based on a "bucket" system, which means if you get 80% on the quizzes and labs then you get 100% of the grades, so don't worry too much about the grades or minor details in your assignments.
@@ -107,7 +107,7 @@ I was always quite anxious in most time of this semester due to the pressure of 
 
 ## Spring 2021
 - &#9733;&#9733; 10-725 Convex Optimization
-  - A course that I originally thought would not be taking, but ended up as the first non-introductory machine learning course I took. Yuanzhi Li is inspiring and he completely changed this course from a statistics course into a machine learning theory course. According to Yuanzhi, for most of us, convex optimization is no more than `optim.SGD`, so the focus is more on non-convex optimization for machine learning. Right now I really hope CMU reopens the course 15-859BB Machine Learning Theory (originally taught by Avrim Blum but he has left CMU).
+  - A course that I originally thought would not be taking, but ended up as the first non-introductory machine learning course I took. Yuanzhi Li is inspiring and he completely changed this course from a statistics course into a machine learning theory course. According to Yuanzhi, for most of us, convex optimization is no more than `optim.SGD`, so the focus is more on non-convex optimization for machine learning. Right now I really hope CMU reopens the course 15-859BB *Machine Learning Theory* (originally taught by Avrim Blum but he has left CMU).
 - &#9733; 15-462 Computer Graphics
 - &#9733; 16-385 Computer Vision
 - 36-226 Introduction to Statistical Inference
@@ -115,8 +115,8 @@ I was always quite anxious in most time of this semester due to the pressure of 
 - 15-295 Competition Programming and Problem Solving
   - I started treating 15-295 as a club for entertainment rather than a course. Competitive programming and algorithms are awesome!
 - 40240432 Formal Languages and Automata (Tsinghua University)
-  - Most of the classes is about languages and automata and covers more in depth than 15-251 at CMU, and a few classes about theory of computation.
-  - Actually I don't need to take a CS course, but I want to experience the best computer science education in China and compare it with CMU.
+  - A required CS theory course for CS majors at THU. The content should be similar to 15-453 *Formal Languages, Automata, and Computability*, and covers more in depth than 15-251 at CMU.
+  - Actually I don't need to take a CS course, but I want to experience the best computer science education in China and compare it with CMU. But I do want to make things easier since I have so much things to do this semester, so I choose a topic that I should be more familiar with than Tsinghua students since they didn't take intro to TCS courses.
 
 **Other commitments:** ML Research @ MultiComp Lab, Tsinghua University host institution program, Codeforces competitions.
 
@@ -130,20 +130,10 @@ Participated in the host instition program at Tsinghua University, so finally ba
 ML Research @ MultiComp Lab
 
 ### Fall 2021
-- 10-708 Probabilistic Graphical Models
-- 15-463 Computational Photography
-- 21-373 Algebraic Structures
-- 15-300 Research and Innovation in Computer Science
-- 85-213 Human Information Processing and Artificial Intelligence
+- TBD
 
 ### Spring 2022
-- 10-707 Advanced Deep Learning
-- 15-451 Algorithm Design and Analysis
-- 15-400 Research Practicum in Computer Science
-- 21-356 Principles of Real Analysis II
-- 73-102 Principles of Microeconomics
-
-**Note:** 15-300/15-400 are a sequence of courses for students to work on a research project, not typical classes.
+- TBD
 
 ### Fall 2022
 - TBD
