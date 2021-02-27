@@ -4,11 +4,7 @@ title: Course Review
 date:   2021-01-26 00:00:00
 description: My journey at CMU.
 ---
-**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences for the first three years. In the fourth year, I might consider a theory concentration, a graphics concentration, an additional major in mathematics, or none of them and take some PhD ML theory courses. I haven't decided yet, but my plan for the first three years is probably fixed.
-
-**My background:** I started taking *casual* competitve math training starting from elementary school, so I had a pretty solid background in discrete math. No prior knowledge of college-level math except basic calculus and linear algebra. Programming experiences were mostly using Python or MATLAB for machine learning.
-
-**Some reflections on workload:** Many people recommend taking less courses and I agree. Leave more time for some other interesting and meaningful stuff (research, projects, TA, etc.). However some courses are essential if you want to do research, so prioritize on these courses.
+**My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe an additional major instead of minor.
 
 &#9733; : The courses which I think were worth attending CMU for. Courses without a star can also be good, but they are not that special.
 
@@ -53,12 +49,12 @@ description: My journey at CMU.
   - Michael Erdmann is a great professor, very friendly and cute.
 - 21-241 Matrices and Linear Transformations
   - A basic linear algebra class. Mostly about calculations and some very easy proofs. 
-  - Not hard in general, take 21-242 if you want to dive deeper into linear algebra.
+  - Quite easy, take 21-242 if possible.
 - 21-270 Introduction to Mathematical Finance
-  - This is a required course for computational finance majors and minors. I wanted to minor in computational finance at that time, but the course was quite boring so I gave up that thought.
+  - A required course for computational finance majors and minors. I wanted to minor in computational finance at that time, but the course was quite boring so I gave up that thought.
   - The math part was just simple high school math. Understanding the terms in finance is a more difficult task.
 - 76-101 Interpretation and Argument
-  - Just a normal writing course, taken with my professor in 76-100.
+  - A normal writing course.
   - Minimal work.
 
 **Workload:** moderate-heavy, spent most time on 251.
@@ -70,7 +66,7 @@ description: My journey at CMU.
   - The labs were certainly interesting but they could be very time consuming, so plan your time wisely. I began working on Cache Lab the very last day and it took me exactly 24 hours (with no breaks). Proxy Lab is a nightmare for me since I began working on it after the final and only had less than one day.
 - 21-325 Probability
   - Harder than I expected, very fast-paced in the summer session.
-  - A proof-based course, with the goal to prove the central limit theorem, the law of large numbers, etc. The proofs were highly non-trivial and heavily based on mathematical analysis, so it's recommended to take 21-269 or 21-355 beforehand. I didn't take them before so I have to self-taught myself analysis.
+  - A proof-based course, with the goal to prove the central limit theorem, the law of large numbers, etc. The proofs were heavily based on mathematical analysis, so it's recommended to take 21-269 or 21-355 beforehand.
   - The take-home exam felt like a Putnam competition and was definitely not related to the homeworks.
 
 **Note:** Don't take summer courses since they are very boring and costly. Do research if you don't have or don't want an internship.
@@ -92,14 +88,14 @@ description: My journey at CMU.
   - The midterm exams really test your deeper understanding of the algorithms, and the final was extremely hard. But, they were curved.
   - The only time-consuming part of the homeworks is programming in SML. Most labs consists of only one LeetCode Hard level problem, which should be much simpler if we just use C++.
 - 21-355 Principles of Real Analysis
-  - The course uses the classical textbook *Principles of Mathematical Analysis* of Rudin. The homeworks and exams were mostly from the textbook and were not hard in general.
+  - The course uses the classical textbook *Principles of Mathematical Analysis* of Rudin. The homeworks and exams were mostly from the textbook and were not hard in general, but this varies for different instructors.
   - If you are a great self-learner you can probably learn all the stuff all by yourself through reading the book. I don't recommend taking it if you do not plan to do a math major/minor.
 - 79-104 Global Histories
   - The topic was *Genocides and Weapons of Mass Destruction*. It's not the most interesting topic, but it's good to know a bit about it.
   - The workload was not very light as I expected, maybe because I'm a little perfectionist. The grading was very nice and gentle however.
 - 15-295 Competition Programming and Problem Solving
   - More like a club than a course. I plan to take more in the future.
-  - If you know pretty much about competitive programming, it almost takes you no time. I never do competitive programming before, only some LeetCode problems, but I only spent like ~20 hours in total (the whole semester, average 1.5h per week) on it for the semester to get an A.
+  - If you know pretty much about competitive programming, it almost takes you no time. I never did competitive programming before, only some LeetCode problems, but I only spent like ~20 hours in total (the whole semester, average 1.5h per week) on it for the semester to get an A.
 
 **Workload:** moderate-light.
 
@@ -116,7 +112,6 @@ I was always quite anxious in most time of this semester due to the pressure of 
   - I started treating 15-295 as a club for entertainment rather than a course. Competitive programming and algorithms are awesome!
 - 40240432 Formal Languages and Automata (Tsinghua University)
   - A required CS theory course for CS majors at THU. The content should be similar to 15-453 *Formal Languages, Automata, and Computability*, and covers more in depth than 15-251 at CMU.
-  - Actually I don't need to take a CS course, but I want to experience the best computer science education in China and compare it with CMU. But I do want to make things easier since I have so much things to do this semester, so I choose a topic that I should be more familiar with than Tsinghua students since they didn't take intro to TCS courses.
 
 **Other commitments:** ML Research @ MultiComp Lab, Tsinghua University host institution program, Codeforces competitions.
 
