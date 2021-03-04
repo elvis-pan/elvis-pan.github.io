@@ -12,7 +12,7 @@ description: My journey at CMU.
 
 ### Fall 2019
 - 15-122 Principles of Imperative Computation
-  - A introduction into serious computer science, since 15-112 teaches more about "programming" than "computer science".
+  - An introduction into serious computer science, since 15-112 teaches more about "programming" than "computer science".
   - Mostly about concepts in C and the simplest data structures and algorithms.
   - The exams and homeworks should not be hard for CS majors, and it is indeed the easiest CS course I believe.
   - Contracts and point-to reasonings were not fun (although quite useful), guessing what Iliano meant in the question statement was not fun, but the programming homeworks were quite interesting. I actually got top 1 in the Peg scoreboard in terms of the speed of my program to solve the board using backtracking.
@@ -43,8 +43,7 @@ description: My journey at CMU.
   - Teamwork is encouraged in 251, so choose your teammate wisely. My teammates were great and I enjoy tackling these super hard group and open problems with them.
   - I love Anil Ada and his classes! He cares about his students and is enthusiatic towards teaching and improving his course contents. 
 - &#9733; 15-150 Principles of Functional Programming
-  - Functional programming was quite new to me, but it's very fascinating. It's probably the cleanest way to write code and high order functions changes your way of thinking about code.
-  - However SML is probably not that useful in practice... Very few people actually code in SML. I wonder why they don't use other functional languages like Haskell.
+  - Functional programming was quite new, but it's fascinating. It's probably the cleanest way to write code and high order functions changes your way of thinking about code.
   - The homeworks were not that easy. Since they don't let you see the autograder result, you need to be extremely careful in the programming labs. Written parts can contain very long proof, and some might find it tedious, but I found them were quite interesting although I never get them correct.
   - Michael Erdmann is a great professor, very friendly and cute.
 - 21-241 Matrices and Linear Transformations
@@ -77,16 +76,14 @@ description: My journey at CMU.
 
 ### Fall 2020
 - 10-701 Introduction to Machine Learning (PhD)
-  - Don't be fooled by the "PhD" in the title. Only 30% are PhD students. Most people are masters or undergraduates, and the background of students vary significantly, ranging from doing ML research to not knowing the Bayes rule.
-  - The grading is friendly, 50% of the students get curved to an A. The final exam was made hard intentionally, but not that hard. It's almost entirely based on the exam, so don't get too anxious about this course if you're taking it as an undergraduate student like me.
-  - We did a cool project on music generation. You can learn many new models in the project, for example GAN, VAE, RBM, etc.
-  - Not too much workload, I feel like it's easier than 15-210.
-  - In general, quite disappointing. I should have taken 15-462 *Computer Graphics* in this semester, but since I was afraid of the pressure of 10-701 I didn't take it and took real analysis instead.
+  - Although there's a "PhD" in the title, only 30% are PhD students. Most are masters or undergraduates, and people's background varies significantly.
+  - The grading was friendly, as 50% of the students get curved to an A. The final exam was made hard intentionally, but not that hard. Most homeworks and exam questions are about theory, but there's a project to give you hands-on experience.
+  - In general, quite disappointing, but still recommended over the other intro courses.
 - &#9733; 15-210 Parallel and Sequential Data Structures and Algorithms
-  - A pretty solid theory course that brings us into the theoretical backgrounds of many classical algorithms.
-  - The course is curved and graded based on a "bucket" system, which means if you get 80% on the quizzes and labs then you get 100% of the grades, so don't worry too much about the grades or minor details in your assignments.
-  - The midterm exams really test your deeper understanding of the algorithms, and the final was extremely hard. But, they were curved.
-  - The only time-consuming part of the homeworks is programming in SML. Most labs consists of only one LeetCode Hard level problem, which should be much simpler if we just use C++.
+  - A well-taught solid theory course.
+  - The course is curved and graded based on a "bucket" system, which means if you get 80% on the quizzes and labs then you get 100% of the grades.
+  - The midterm exams test your deeper understanding of the algorithms, and the final was extremely hard. But, they were curved.
+  - The most time-consuming part of the homeworks is programming in SML. Most labs consists of only one LeetCode Hard level problem, which should be much simpler if we just use C++.
 - 21-355 Principles of Real Analysis
   - The course uses the classical textbook *Principles of Mathematical Analysis* of Rudin. The homeworks and exams were mostly from the textbook and were not hard in general, but this varies for different instructors.
   - If you are a great self-learner you can probably learn all the stuff all by yourself through reading the book. I don't recommend taking it if you do not plan to do a math major/minor.
@@ -112,6 +109,7 @@ I was always quite anxious in most time of this semester due to the pressure of 
   - I started treating 15-295 as a club for entertainment rather than a course. Competitive programming and algorithms are awesome!
 - 40240432 Formal Languages and Automata (Tsinghua University)
   - A required CS theory course for CS majors at THU. The content should be similar to 15-453 *Formal Languages, Automata, and Computability*, and covers more in depth than 15-251 at CMU.
+- (Audit) Introduction to Artificial Intelligence (Tsinghua University)
 
 **Other commitments:** ML Research @ MultiComp Lab, Tsinghua University host institution program, Codeforces competitions.
 
