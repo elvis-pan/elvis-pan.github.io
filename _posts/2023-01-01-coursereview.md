@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Course Review
-date:   2021-01-26 00:00:00
+date:   2023-01-01 00:00:00
 description: My journey at CMU.
 ---
 **My goal:** B.S. in CS, Concentration in Machine Learning, Minor in Mathematical Sciences, and maybe an additional major instead of minor.
