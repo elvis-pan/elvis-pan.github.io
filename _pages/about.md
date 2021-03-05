@@ -16,9 +16,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm a sophomore student at [Carnegie Mellon University](https://www.cmu.edu) [School of Computer Science](https://cs.cmu.edu) pursuing B.S. in Computer Science.
 I am interested in machine learning, artificial intelligence, and their theoretical foundations.
-Currently, I work at the [MultiComp Lab](http://multicomp.cs.cmu.edu/), and my research is in the area of multimodal multitask machine learning. 
+Currently, I work at the [MultiComp Lab](http://multicomp.cs.cmu.edu/), where I research in multimodal multitask machine learning. 
 
-For more information about my [CV](https://panyan7.github.io/cv/), [projects](https://panyan7.github.io/projects/), [courses](https://panyan7.github.io/blog/2021/coursereview/), and [life](https://panyan7.github.io/blog/2021/intro/), feel free to explore this webpage.
+For more information about my [CV](https://panyan7.github.io/cv/), [projects](https://panyan7.github.io/projects/), and [life](https://panyan7.github.io/blog/2021/intro/), feel free to explore this webpage.
 
 I can be reached at `ypan2[at]andrew[dot]cmu[dot]edu`.
 
