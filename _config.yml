@@ -9,7 +9,7 @@ last_name: Pan
 # email: ypan2@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Yan Pan's personal home page.
-footer_text: >
+footer_text: 
   #Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
@@ -50,7 +50,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: >
+contact_note: 
   #ypan2[at]andrew[dot]cmu[dot]edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
