@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 I'm a incoming junior student at [Carnegie Mellon University](https://www.cmu.edu) [School of Computer Science](https://cs.cmu.edu) majoring in computer science.
 I am broadly interested in the theory and application of machine learning. I'm also interested in optimization for machine learning.
 
-Currently, I work at [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/), advised by [Dr. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), where I research multimodal machine learning. This semester, I'm visiting [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) as an exchange student from February to June.
+Currently, I do research at [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/) under [Dr. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/). This semester, I'm visiting [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) from February to July.
 
 For more information about my [CV](https://panyan7.github.io/cv/), [projects](https://panyan7.github.io/projects/), [courses](https://panyan7.github.io/blog/2021/courses/) and [life](https://panyan7.github.io/blog/2021/intro/), feel free to explore this webpage.
 
