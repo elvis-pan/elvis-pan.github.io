@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Currently nothing. Hopefully there will be something in 2021.
+description: Nothing yet.
 years: [2020]
 nav: true
 ---
