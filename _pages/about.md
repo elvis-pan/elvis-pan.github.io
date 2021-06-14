@@ -15,9 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a sophomore student at [Carnegie Mellon University](https://www.cmu.edu) [School of Computer Science](https://cs.cmu.edu) majoring in computer science.
-My research interest is in machine learning and optimization.
-
-Currently, I do research at [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/) in multimodal machine learning under [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/). This semester, I'm visiting [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) from February to July.
+My research interest is in machine learning, optimization, and algorithms.
 
 For more information about my [CV](https://panyan7.github.io/cv/), [courses](https://panyan7.github.io/blog/2021/courses/) and [life](https://panyan7.github.io/personal/), feel free to explore this webpage.
 
