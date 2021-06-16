@@ -10,6 +10,10 @@ nav: true
 
 [Coursework](https://panyan7.github.io/blog/2021/courses/)
 
+## Documents
+
+[SURF Proposal](https://panyan7.github.io/blog/2021/surf/)
+
 ## Resources
 
 [Algorithms for Competitive Programming](https://panyan7.github.io/projects/algorithm/)
