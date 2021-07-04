@@ -31,7 +31,7 @@ Feel free to save and download any of these photos. However, I own the copyright
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm col-md-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/potala1.jpg" data-zoomable>
     </div>
 </div>
@@ -75,7 +75,7 @@ Some snowy mountain shot using the 100-400mm lens.
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm col-md-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/fairbanks.jpg" data-zoomable>
     </div>
 </div>
@@ -84,7 +84,7 @@ Some snowy mountain shot using the 100-400mm lens.
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm col-md-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/aurora.jpg" data-zoomable>
     </div>
 </div>
@@ -93,7 +93,7 @@ Some snowy mountain shot using the 100-400mm lens.
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm col-md-4 mt-3 mt-md-0">
+    <div class="col-sm col-md-6 mt-3 mt-md-0 align-self-center">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cabinstars.jpg" data-zoomable>
     </div>
 </div>
@@ -133,7 +133,7 @@ I love phone photography. It is very common that you were walking out without yo
 # Carnegie Mellon University Collection
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm col-md-10 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/gates1.jpeg" data-zoomable>
     </div>
 </div>
