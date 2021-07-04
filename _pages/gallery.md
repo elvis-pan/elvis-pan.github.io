@@ -93,7 +93,7 @@ Some snowy mountain shot using the 100-400mm lens.
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0 mx-0 mx-md-7">
+    <div class="col-sm col-md-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cabinstars.jpg" data-zoomable>
     </div>
 </div>
