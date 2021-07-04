@@ -10,7 +10,7 @@ Feel free to save and download any of these photos. However, I own the copyright
 
 # Tibet, June 2021 (Coming)
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest1.jpg" data-zoomable>
     </div>
@@ -18,7 +18,7 @@ Feel free to save and download any of these photos. However, I own the copyright
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest2.jpg" data-zoomable>
     </div>
 </div>
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest3.jpg" data-zoomable>
     </div>
@@ -30,7 +30,7 @@ Feel free to save and download any of these photos. However, I own the copyright
     Adventure in a forest of Draksum Tso, Nyingchi. The forest appears to be unexplored and human-less, but the hanging Tibetan flags shining in the sun shows there's something special about this place...
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm col-md-8 mt-3 mt-md-0 align-self-center">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/potala1.jpg" data-zoomable>
     </div>
@@ -51,7 +51,7 @@ Some snowy mountain shot using the 100-400mm lens.
 
 # Alaska, March 2020
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska1.jpg" data-zoomable>
     </div>
@@ -59,7 +59,7 @@ Some snowy mountain shot using the 100-400mm lens.
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska2.jpg" data-zoomable>
     </div>
 </div>
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska3.jpg" data-zoomable>
     </div>
@@ -74,7 +74,7 @@ Some snowy mountain shot using the 100-400mm lens.
     Alaska adventure.
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm col-md-8 mt-3 mt-md-0 align-self-center">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/fairbanks.jpg" data-zoomable>
     </div>
@@ -83,7 +83,7 @@ Some snowy mountain shot using the 100-400mm lens.
     The road to heaven. The clouds look like a hand pointing to the sun on the left.
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm col-md-8 mt-3 mt-md-0 align-self-center">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/aurora.jpg" data-zoomable>
     </div>
@@ -92,7 +92,7 @@ Some snowy mountain shot using the 100-400mm lens.
     Very weak aurora -- sadly we were not very lucky.
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm col-md-6 mt-3 mt-md-0 align-self-center">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cabinstars.jpg" data-zoomable>
     </div>
@@ -101,7 +101,7 @@ Some snowy mountain shot using the 100-400mm lens.
     A sky full of stars above the cabin we lived.
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane1.jpeg" data-zoomable>
     </div>
@@ -115,7 +115,7 @@ Some snowy mountain shot using the 100-400mm lens.
 
 # iPhone Photography Collection
 I love phone photography. It is very common that you were walking out without your camera, where you suddenly found the decisive moment -- and you have to take the shot in a few seconds. Now your phone is your best tool under this situation.
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic1.jpeg" data-zoomable>
     </div>
@@ -132,7 +132,7 @@ I love phone photography. It is very common that you were walking out without yo
 
 # Carnegie Mellon University Collection
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm col-md-10 mt-3 mt-md-0 align-self-center">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/gates1.jpeg" data-zoomable>
     </div>
@@ -141,7 +141,7 @@ I love phone photography. It is very common that you were walking out without yo
     The violet Gates.
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cmu1.jpeg" data-zoomable>
     </div>
@@ -149,7 +149,7 @@ I love phone photography. It is very common that you were walking out without yo
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cmu2.jpeg" data-zoomable>
     </div>
 </div>
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cmu3.jpg" data-zoomable>
     </div>
@@ -157,7 +157,7 @@ I love phone photography. It is very common that you were walking out without yo
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cmu4.jpg" data-zoomable>
     </div>
 </div>
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt2.jpeg" data-zoomable>
     </div>
@@ -170,7 +170,7 @@ I love phone photography. It is very common that you were walking out without yo
 </div>
 
 # Miscellaneous
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/home1.jpeg" data-zoomable>
     </div>
