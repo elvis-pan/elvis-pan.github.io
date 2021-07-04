@@ -14,9 +14,37 @@ Feel free to save and download any of these photos. However, I own the copyright
 
 # Tibet, June 2021 (Coming)
 
-Potala Palace, Lhasa.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest1.jpg">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest2.jpg">
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest3.jpg">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest4.jpg">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest5.jpg">
+    </div>
+</div>
+<div class="caption">
+    Adventure in a forest of Draksum Tso, Nyingchi. The forest appears to be unexplored and human-less, but the hanging Tibetan flags shining in the sun shows there's something special about this place...
+</div>
 
-Adventure in a virgin forest of Basom Lake, Nyingchi.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/potala1.jpg">
+    </div>
+</div>
+<div class="caption">
+    Potala Palace, Lhasa.
+</div>
 
 The purity of Namtso.
 
