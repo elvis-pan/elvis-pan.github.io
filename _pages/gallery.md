@@ -76,6 +76,33 @@ Some snowy mountain shot using the 100-400mm lens.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/fairbanks.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    The road to heaven. The clouds look like a hand pointing to the sun on the left.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/aurora.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    Very weak aurora -- sadly we were not very lucky.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cabinstars.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    A sky full of stars above the cabin we lived.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane1.jpeg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -97,7 +124,10 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    **Left:** A man is walking under the Gates Hillman Center in snow. This picture was taken in February 2020, when I was having lunch (at iNoodle) and found this scene fascinating. Then I waited for a person to show up and took this amazing photograph -- the decisive moment. This has become my favorite iPhone shot ever since then. **Right:** Taken in the Olympic park of Beijing when I was jogging. The Beijing Olympic tower, the plants, the clouds tinted pink by the sunset glow, and the carp swimming in the reflection of the clouds... What a harmonious scene.
+    Left: A man is walking under the Gates Hillman Center in snow. This picture was taken in February 2020, when I was having lunch (at iNoodle) and found this scene fascinating. Then I waited for a person to show up and took this amazing photograph -- the decisive moment. This has become my favorite iPhone shot ever since then. 
+</div>
+<div class="caption">
+    Right: Taken in the Olympic park of Beijing when I was jogging. The Beijing Olympic tower, the plants, the clouds tinted pink by the sunset glow, and the carp swimming in the reflection of the clouds... What a harmonious scene.
 </div>
 
 # Carnegie Mellon University Collection
@@ -141,5 +171,5 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    **Left:** An unusual way to take a sunset shot. **Right:** In Philadelphia, with my friend Az (although an old man would fit better into this picture).
+    Left: An unusual way to take a sunset shot. Right: In Philadelphia, with my friend Az (although an old man would fit better into this picture).
 </div>
