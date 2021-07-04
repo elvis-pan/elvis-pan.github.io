@@ -92,8 +92,8 @@ Some snowy mountain shot using the 100-400mm lens.
     Very weak aurora -- sadly we were not very lucky.
 </div>
 
-<div class="row mt-3 mx-5">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 mx-0 mx-md-7">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cabinstars.jpg" data-zoomable>
     </div>
 </div>
