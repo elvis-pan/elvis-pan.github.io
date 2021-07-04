@@ -75,42 +75,36 @@ Some snowy mountain shot using the 100-400mm lens.
 </div>
 
 <div class="row mt-3 justify-content-center">
-    <div class="col-sm col-md-8 mt-3 mt-md-0 align-self-center">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/fairbanks.jpg" data-zoomable>
     </div>
-</div>
-<div class="caption">
-    The road to heaven. The clouds look like a hand pointing to the sun on the left.
-</div>
-
-<div class="row mt-3 justify-content-center">
-    <div class="col-sm col-md-8 mt-3 mt-md-0 align-self-center">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/aurora.jpg" data-zoomable>
     </div>
 </div>
 <div class="caption">
-    Very weak aurora -- sadly we were not very lucky.
+    Left: The road to heaven. The clouds look like a hand pointing to the sun on the left. Right: Aurora (although very weak).
 </div>
 
 <div class="row mt-3 justify-content-center">
-    <div class="col-sm col-md-6 mt-3 mt-md-0 align-self-center">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cabinstars.jpg" data-zoomable>
     </div>
-</div>
-<div class="caption">
-    A sky full of stars above the cabin we lived.
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane3.jpg" data-zoomable>
+    </div>
 </div>
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane1.jpeg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane1.jpg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane2.jpeg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane2.jpg" data-zoomable>
     </div>
 </div>
 <div class="caption">
-    Airplane sunset.
+    Up Left: A sky full of stars above the cabin we lived. Rest: Airplane sunset.
 </div>
 
 # iPhone Photography Collection
