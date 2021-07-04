@@ -39,15 +39,19 @@ Feel free to save and download any of these photos. However, I own the copyright
     Potala Palace, Lhasa.
 </div>
 
-The purity of Namtso.
-
-Mt Namcha Barwa that always hides in the clouds.
-
-Mt Qomolangma, the highest mountain of the world.
-
-Qomolangma under stars and the milky way.
-
-Some snowy mountain shot using the 100-400mm lens.
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm col-md-10 mt-3 mt-md-0 align-self-center">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/qomolangmastars1.jpg" data-zoomable>
+    </div>
+</div>
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm col-md-10 mt-3 mt-md-0 align-self-center">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/qomolangmastars2.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    Qomolangma under stars and the milky way.
+</div>
 
 # Alaska, March 2020
 
@@ -64,10 +68,12 @@ Some snowy mountain shot using the 100-400mm lens.
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska3.jpg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska4.jpg" data-zoomable>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska5.jpg" data-zoomable>
+    </div>
+</div>
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm col-md-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska4.jpg" data-zoomable>
     </div>
 </div>
 <div class="caption">
