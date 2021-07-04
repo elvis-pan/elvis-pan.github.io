@@ -33,6 +33,7 @@ $grey-color-dark:     darken($grey-color, 25%);
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+$spacer: 1rem !default;
 $spacers: (
   0: 0,
   1: ($spacer * .25),
@@ -41,5 +42,6 @@ $spacers: (
   4: ($spacer * 1.5),
   5: ($spacer * 3),
   6: ($spacer * 5),
-  7: ($spacer * 8)
+  7: ($spacer * 8),
+  8: ($spacer * 10)
 )
