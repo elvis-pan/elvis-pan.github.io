@@ -6,11 +6,7 @@ description: A collection of my photography works.
 nav: true
 ---
 
-Camera: Sony α7R III
-
-Lens: Sony 16-35mm f/2.8 GM, Sony 24-105mm f/4 G, Sony 100-400m f/4.5-5.6 GM.
-
-Feel free to save and download any of these photos. However, I own the copyright of these photos, and I do not give images of full resolution for free. You should contact me at `py2019@outlook.com` if you want to use any pictures for commercial use.
+Feel free to save and download any of these photos. However, I own the copyright of these photos, and I do not give images of full resolution for free. You should contact me at `py2019@outlook.com` if you want any pictures for commercial use.
 
 # Tibet, June 2021 (Coming)
 
@@ -44,6 +40,8 @@ Feel free to save and download any of these photos. However, I own the copyright
 </div>
 
 The purity of Namtso.
+
+Mt Namcha Barwa that always hides in the clouds.
 
 Mt Qomolangma, the highest mountain of the world.
 
@@ -97,18 +95,9 @@ I love phone photography. It is very common that you were walking out without yo
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/gates2.jpeg" data-zoomable>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt1.jpeg" data-zoomable>
-    </div>
 </div>
 <div class="caption">
-    Left: Taken in the Olympic park of Beijing when I was jogging. The Beijing Olympic tower, the plants, the clouds tinted pink by the sunset glow, and the carp swimming in the reflection of the clouds... What a harmonious scene.
-</div>
-<div class="caption">
-    Middle: A man is walking under the Gates Hillman Center in snow. This picture was taken in February 2020, when I was having lunch (at iNoodle) and found this scene fascinating. Then I waited for a person to show up and got this amazing shot -- the decisive moment. This has become my favorite iPhone shot ever since then.
-</div>
-<div class="caption">
-    Right: Taken when I was waiting for the concert of The Chainsmokers in October 2019.
+    **Left:** A man is walking under the Gates Hillman Center in snow. This picture was taken in February 2020, when I was having lunch (at iNoodle) and found this scene fascinating. Then I waited for a person to show up and took this amazing photograph -- the decisive moment. This has become my favorite iPhone shot ever since then. **Right:** Taken in the Olympic park of Beijing when I was jogging. The Beijing Olympic tower, the plants, the clouds tinted pink by the sunset glow, and the carp swimming in the reflection of the clouds... What a harmonious scene.
 </div>
 
 # Carnegie Mellon University Collection
@@ -152,5 +141,5 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    Left: 
+    **Left:** An unusual way to take a sunset shot. **Right:** In Philadelphia, with my friend Az (although an old man would fit better into this picture).
 </div>
