@@ -29,9 +29,6 @@ Feel free to save and download any of these photos. However, I own the copyright
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest4.jpg" data-zoomable>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/forest5.jpg" data-zoomable>
-    </div>
 </div>
 <div class="caption">
     Adventure in a forest of Draksum Tso, Nyingchi. The forest appears to be unexplored and human-less, but the hanging Tibetan flags shining in the sun shows there's something special about this place...
