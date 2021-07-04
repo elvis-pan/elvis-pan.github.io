@@ -89,19 +89,26 @@ Some snowy mountain shot using the 100-400mm lens.
 </div>
 
 # iPhone Photography Collection
+I love phone photography. It is very common that you were walking out without your camera, where you suddenly found the decisive moment -- and you have to take the shot in a few seconds. Now your phone is your best tool under this situation.
 <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic1.jpeg" data-zoomable>
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/gates2.jpeg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt1.jpeg" data-zoomable>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic1.jpeg" data-zoomable>
-    </div>
 </div>
 <div class="caption">
-    Various iPhone photography. The leftmost image, where a man is walking under the Gates Hillman Center in snow, was taken in February 2020 and has become my favorite iPhone shot ever since then.
+    Left: Taken in the Olympic park of Beijing when I was jogging. The Beijing Olympic tower, the plants, the clouds tinted pink by the sunset glow, and the carp swimming in the reflection of the clouds... What a harmonious scene.
+</div>
+<div class="caption">
+    Middle: A man is walking under the Gates Hillman Center in snow. This picture was taken in February 2020, when I was having lunch (at iNoodle) and found this scene fascinating. Then I waited for a person to show up and got this amazing shot -- the decisive moment. This has become my favorite iPhone shot ever since then.
+</div>
+<div class="caption">
+    Right: Taken when I was waiting for the concert of The Chainsmokers in October 2019.
 </div>
 
 # Carnegie Mellon University Collection
@@ -135,3 +142,15 @@ Some snowy mountain shot using the 100-400mm lens.
     Various sunsets.
 </div>
 
+# Miscellaneous
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/home1.jpeg" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/phillyautumn.jpeg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    Left: 
+</div>
