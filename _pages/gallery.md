@@ -151,6 +151,14 @@ I love phone photography. It is very common that you were walking out without yo
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cmu3.jpg" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cmu4.jpg" data-zoomable>
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt2.jpeg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
