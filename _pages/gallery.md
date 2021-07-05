@@ -64,15 +64,10 @@ Feel free to save and download any of these photos. However, I own the copyright
     </div>
 </div>
 <div class="row mt-3 justify-content-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm col-md-6 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska3.jpg" data-zoomable>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska5.jpg" data-zoomable>
-    </div>
-</div>
-<div class="row mt-3 justify-content-center">
-    <div class="col-sm col-md-4 mt-3 mt-md-0">
+    <div class="col-sm col-md-4 offset-md-1 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska4.jpg" data-zoomable>
     </div>
 </div>
