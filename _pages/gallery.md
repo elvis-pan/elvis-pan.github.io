@@ -112,10 +112,10 @@ Feel free to save and download any of these photos. However, I own the copyright
 I love phone photography. It is very common that you were walking out without your camera, where you suddenly found the decisive moment -- and you have to take the shot in a few seconds. Now your phone is your best tool under this situation.
 <div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic1.jpeg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/gates2.jpeg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/gates2.jpeg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic1.jpeg" data-zoomable>
     </div>
 </div>
 <div class="caption">
