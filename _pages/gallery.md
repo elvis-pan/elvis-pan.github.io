@@ -88,10 +88,10 @@ Feel free to save and download any of these photos. However, I own the copyright
 </div>
 
 <div class="row mt-3 justify-content-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm col-md-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cabinstars.jpg" data-zoomable>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm col-md-4 offset-md-2 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane3.jpg" data-zoomable>
     </div>
 </div>
