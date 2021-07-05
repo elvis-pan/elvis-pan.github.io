@@ -63,7 +63,7 @@ Feel free to save and download any of these photos. However, I own the copyright
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska2.jpg" data-zoomable>
     </div>
 </div>
-<div class="row mt-3 justify-content-center">
+<div class="row mt-3">
     <div class="col-sm col-md-6 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/alaska3.jpg" data-zoomable>
     </div>
