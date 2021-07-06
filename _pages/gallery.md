@@ -133,7 +133,16 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    The violet Gates.
+    The violet Gates. This photo is a panorama taken after a rain during the pandemic, so luckily there were no people in the picture.
+</div>
+
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm col-md-10 mt-3 mt-md-0 align-self-center">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic2.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    The Beijing Olympic park. This picture was just for practicing this very popular landscape photography style on instagram and 500px.
 </div>
 
 <div class="row mt-3 justify-content-center">
@@ -161,7 +170,7 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    Various sunsets.
+    Various sunsets of Pittsburgh and CMU.
 </div>
 
 # Miscellaneous
@@ -170,9 +179,24 @@ I love phone photography. It is very common that you were walking out without yo
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/home1.jpeg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/phillyautumn.jpeg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/phillyautumn.jpg" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt4.jpg" data-zoomable>
     </div>
 </div>
 <div class="caption">
-    Left: An unusual way to take a sunset shot. Right: In Philadelphia, with my friend Az (although an old man would fit better into this picture).
+    Left: An unusual way to take a sunset shot. Middle: In Philadelphia, with my friend Az (although an old man would fit better into this picture). Right: Pittsburgh.
+</div>
+
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/yellowstone1.jpg" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/sunflowers.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    Some early work, before I actually started college.
 </div>
