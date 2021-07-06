@@ -84,7 +84,7 @@ Feel free to save and download any of these photos. However, I own the copyright
     </div>
 </div>
 <div class="caption">
-    Left: The road to heaven. The clouds look like a hand pointing to the sun on the left. Right: Aurora (although very weak).
+    Left: The road to heaven. The clouds look like a hand pointing to the sun on the left. Right: Aurora.
 </div>
 
 <div class="row mt-3 justify-content-center">
@@ -137,15 +137,6 @@ I love phone photography. It is very common that you were walking out without yo
 </div>
 
 <div class="row mt-3 justify-content-center">
-    <div class="col-sm col-md-10 mt-3 mt-md-0 align-self-center">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic2.jpg" data-zoomable>
-    </div>
-</div>
-<div class="caption">
-    The Beijing Olympic park. This picture was just for practicing this very popular landscape photography style on instagram and 500px.
-</div>
-
-<div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/cmu1.jpeg" data-zoomable>
     </div>
@@ -163,10 +154,10 @@ I love phone photography. It is very common that you were walking out without yo
 </div>
 <div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt2.jpeg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt2.jpg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt3.jpeg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/pitt3.jpg" data-zoomable>
     </div>
 </div>
 <div class="caption">
@@ -174,6 +165,15 @@ I love phone photography. It is very common that you were walking out without yo
 </div>
 
 # Miscellaneous
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm col-md-10 mt-3 mt-md-0 align-self-center">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/olympic2.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    The Beijing Olympic park. This picture was just for practicing this very popular landscape photography style on instagram and 500px.
+</div>
+
 <div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/home1.jpeg" data-zoomable>
