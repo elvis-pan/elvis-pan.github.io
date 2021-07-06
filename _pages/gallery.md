@@ -27,16 +27,7 @@ Feel free to save and download any of these photos. However, I own the copyright
     </div>
 </div>
 <div class="caption">
-    Adventure in a forest of Draksum Tso, Nyingchi. The forest appears to be unexplored and human-less, but the hanging Tibetan flags shining in the sun shows there's something special about this place...
-</div>
-
-<div class="row mt-3 justify-content-center">
-    <div class="col-sm col-md-8 mt-3 mt-md-0 align-self-center">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/potala1.jpg" data-zoomable>
-    </div>
-</div>
-<div class="caption">
-    Potala Palace, Lhasa.
+    Adventure in a forest of Draksum Tso, Nyingchi. Warm, but also mysterious.
 </div>
 
 <div class="row mt-3 justify-content-center">
@@ -50,7 +41,16 @@ Feel free to save and download any of these photos. However, I own the copyright
     </div>
 </div>
 <div class="caption">
-    Qomolangma under stars and the milky way.
+    Mt Qomolangma and the milky way. Above the highest mountain in this world, there's the whole universe.
+</div>
+
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm col-md-8 mt-3 mt-md-0 align-self-center">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/potala1.jpg" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    Potala Palace, Lhasa.
 </div>
 
 # Alaska, March 2020
@@ -84,7 +84,7 @@ Feel free to save and download any of these photos. However, I own the copyright
     </div>
 </div>
 <div class="caption">
-    Left: The road to heaven. The clouds look like a hand pointing to the sun on the left. Right: Aurora.
+    Left: The road to heaven. The clouds are like a hand pointing to the sun. Right: Aurora.
 </div>
 
 <div class="row mt-3 justify-content-center">
@@ -95,7 +95,6 @@ Feel free to save and download any of these photos. However, I own the copyright
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane3.jpg" data-zoomable>
     </div>
 </div>
-
 <div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/photography/airplane1.jpg" data-zoomable>
@@ -105,7 +104,7 @@ Feel free to save and download any of these photos. However, I own the copyright
     </div>
 </div>
 <div class="caption">
-    Up Left: A sky full of stars above the cabin we lived. Rest: Airplane sunset.
+    Up Left: Cabin and a sky full of stars. Rest: Airplane sunset.
 </div>
 
 # iPhone Photography Collection
@@ -119,11 +118,9 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    Left: A man is walking under the Gates Hillman Center in snow. This picture was taken in February 2020, when I was having lunch (at iNoodle) and found this scene fascinating. Then I waited for a person to show up and took this amazing photograph -- the decisive moment. This has become my favorite iPhone shot ever since then. 
+    Left (My favorite iPhone photography): A man walks under the Gates Hillman Center in snow. Right: The carps in the clouds.
 </div>
-<div class="caption">
-    Right: Taken in the Olympic park of Beijing when I was jogging. The Beijing Olympic tower, the plants, the clouds tinted pink by the sunset glow, and the carp swimming in the reflection of the clouds... What a harmonious scene.
-</div>
+
 
 # Carnegie Mellon University Collection
 
@@ -133,8 +130,9 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    The violet Gates. This photo is a panorama taken after a rain during the pandemic, so luckily there were no people in the picture.
+    The violet Gates.
 </div>
+
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -171,7 +169,7 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    The Beijing Olympic park. This picture was just for practicing this very popular landscape photography style on instagram and 500px.
+    The Beijing Olympic park.
 </div>
 
 <div class="row mt-3 justify-content-center">
@@ -186,7 +184,7 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    Left: An unusual way to take a sunset shot. Middle: In Philadelphia, with my friend Az (although an old man would fit better into this picture). Right: Pittsburgh.
+    Left: An unusual way to take a sunset shot. Middle: Philadelphia, with Az. Right: Pittsburgh.
 </div>
 
 <div class="row mt-3 justify-content-center">
@@ -198,5 +196,6 @@ I love phone photography. It is very common that you were walking out without yo
     </div>
 </div>
 <div class="caption">
-    Some early work, before I actually started college.
+    Some early work.
 </div>
+
